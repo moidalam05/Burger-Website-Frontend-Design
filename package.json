@@ -1,0 +1,15 @@
+{
+  "name": "burger-website-with-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./input.css -o ./main/output.css --watch"
+  },
+  "keywords": [],
+  "author": "Moid Alam",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
